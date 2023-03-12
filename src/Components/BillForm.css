@@ -1,0 +1,17 @@
+.form{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    
+}
+.submitbtn{
+    padding: 10px 30px;
+    border: none;
+    background: rgb(62, 62, 143);
+    color: white;
+    font-weight: bold;
+}
+.input{
+  border: 1px solid blue !important;
+  outline: 1px solid blue !important;
+}
